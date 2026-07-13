@@ -176,5 +176,5 @@ This project demonstrates practical experience with:
 - Performance comparison
 
 ---
-- Performance comparison
+
 
